@@ -1,0 +1,20 @@
+[
+  {
+    "name":"layout2",
+    "title":"Layout 2",
+    "paid":false,
+    "url":"https://demo.wpxpo.com/layout/layout-2/"
+  },
+  {
+    "name":"layout1",
+    "title":"Layout 1",
+    "paid":false,
+    "url":"https://demo.wpxpo.com/layout/layout-1/"
+  },
+  {
+    "name":"fashion",
+    "title":"Fashion",
+    "paid":false,
+    "url":"https://demo.wpxpo.com/layout/fashion/"
+  }
+]
